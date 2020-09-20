@@ -1,0 +1,6 @@
+.idea
+node_modules
+dist
+test.db
+test/images/**/*.png
+!test/images/test-img.png
