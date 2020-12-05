@@ -6,10 +6,8 @@
         "lib": ["es7"],
         "declaration": true,
         "target": "es2017",
-        "esModuleInterop": true,
+        "esModuleInterop": false,
         "incremental": true,
-        "experimentalDecorators": true,
-        "emitDecoratorMetadata": true,
         "skipLibCheck": true,
         "outDir": "./dist",
         "types": [
